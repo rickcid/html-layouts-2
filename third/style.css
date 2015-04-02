@@ -1,6 +1,6 @@
-* {
+/* {
   border: 1px dashed blue;
-}
+}*/
 
 body {
   font-family: Tahoma, Verdana, Segoe, sans-serif;
@@ -48,7 +48,8 @@ li {
 }
 
 .rightCol {
-  margin-top: -30px;
+  position: relative;
+  bottom: 80px;
 }
 
 .imageBox {
